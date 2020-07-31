@@ -1,0 +1,10 @@
+.MuiTextField-root {
+    /* height: 50px; */
+    /* flex:1; */
+    border-radius: 5px 0 0 5px;
+}
+
+.MuiFormControl-root .MuiFormControl-fullWidth  .MuiFormControl-marginDense .MuiFormControl-marginNormal	{
+    border-color: rebeccapurple;
+    border-radius: 15px;
+}
